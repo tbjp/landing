@@ -1,0 +1,19 @@
+.cards {
+  display: flex;
+  margin-top: 1em;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+.card {
+  box-shadow: 0 0 5px #0000006e;
+  width: 14em;
+  height: 20em;
+  padding: 0 1em;
+}
+.card img {
+  width: 150px;
+  height: 150px;
+  object-fit: fill;
+  object-position: center;
+}

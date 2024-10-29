@@ -1,0 +1,18 @@
+.footer {
+  background-color: rgb(45, 51, 57);
+  text-align: center;
+  margin-top: 1em;
+  padding: 5em 0;
+  color: white;
+}
+
+.footer a {
+  color: mediumspringgreen;
+
+  font-size: 4em;
+  text-decoration: none;
+}
+
+.links {
+  color: white;
+}
